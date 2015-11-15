@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Code::Blocks files
+main.cpp
+*.depend
+*.cbp
+*.layout
