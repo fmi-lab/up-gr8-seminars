@@ -32,3 +32,6 @@ main.cpp
 *.depend
 *.cbp
 *.layout
+
+# Emacs files
+*~
